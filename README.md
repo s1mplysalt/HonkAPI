@@ -1,4 +1,6 @@
-# HonkAPI
+<p align="center">
+  <img src="assets/logo.png" alt="HonkAPI Logo" width="300"/>
+</p>
 
 HonkAPI is a C# modding framework and runtime abstraction layer for *Untitled Goose Game* (v1.1.4). Built for BepInEx 5 and Harmony, it provides high-level APIs to interact with game systems, player entities, human NPCs, physics objects, audio, and user interfaces without requiring direct bytecode manipulation or manual patches.
 
